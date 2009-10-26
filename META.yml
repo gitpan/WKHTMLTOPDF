@@ -1,5 +1,5 @@
 --- 
-abstract: Perl interface to the wkhtmltopdf program for producing PDF-Files f    rom HTML-Content. 
+abstract: Perl interface to the wkhtmltopdf program for producing PDF-File from HTML-File 
 author: 
   - Thiago Rondon <thiago@aware.com.br>
 distribution_type: module
@@ -17,4 +17,4 @@ requires:
   IPC::Cmd: 0
   Moose: 0.24
   MooseX::Role::Cmd: 0.06
-version: 0.01
+version: 0.02
